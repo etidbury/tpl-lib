@@ -4215,9 +4215,9 @@ tough-cookie@>=2.3.3, tough-cookie@^2.3.4, tough-cookie@~2.4.3:
     psl "^1.1.24"
     punycode "^1.4.1"
 
-tpl-lib-helpers@latest:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/tpl-lib-helpers/-/tpl-lib-helpers-0.0.1.tgz#58b4601c727eb4506e69faebc8dde9e65cc08cd5"
+tpl-lib-helpers@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/tpl-lib-helpers/-/tpl-lib-helpers-0.0.2.tgz#b034eb3caf03c19da6238a81dbb7a3603408605b"
   dependencies:
     dotenv "^6.1.0"
     fs "0.0.1-security"
