@@ -1,1 +1,1 @@
-module.exports=require('tpl-lib-helpers/config/babel')
+module.exports=require('/Users/edwardtidbury/Documents/lemp-container/app/src/project/tpl-lib-helpers.git/config/babel')

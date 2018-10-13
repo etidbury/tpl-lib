@@ -13,7 +13,7 @@
     "flow": "$(npm bin)/flow",
     "eslint": "$(npm bin)/eslint --max-warnings 300 ./",
     "setup": "tidil setup --tpl lib",
-    "test": "$(npm bin)/babel-jest",
+    "test": "$(npm bin)/jest",
     "test:dev": "NODE_ENV=test node index.js",
     "test:watch": "$(npm bin)/jest --watch --runInBand",
     "test:ci": "npm run flow && npm run eslint && npm run test"
