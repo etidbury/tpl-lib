@@ -9,3 +9,4 @@ flow-typed/npm/*
 Dockerfile
 *.md
 *.log
+dist
